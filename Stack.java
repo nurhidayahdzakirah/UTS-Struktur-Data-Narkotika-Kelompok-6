@@ -1,4 +1,4 @@
-public class Stack<T> {
+public class stack<T> {
 
     private Node<T> top;
     private int size;
